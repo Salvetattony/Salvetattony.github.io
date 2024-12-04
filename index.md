@@ -21,8 +21,8 @@
   - *Depuis septembre 2022*  
   - [I.U.T Perpignan - Antenne de Carcassonne]
 
-- **Brevet national de sécurité et de sauvetage aquatique (BNSSA)**  
-  - *mai 2023*  
+- **Brevet National de Sécurité et de Sauvetage Aquatique (BNSSA)**  
+  - *Mai 2023*  
   - [Fédération Française de Sauvetage et de Secourisme - Carcassonne]  
 
 - **Licence 1 Informatique**  
@@ -41,9 +41,9 @@
 
 ## Expériences Professionnelles
 
-- **Alternant en SIG **  
+- **Alternant en SIG**  
   - *Décembre 2023 à septembre 2025*  
-  - société SB2A
+  - Société SB2A  
 
 - **Agent des espaces verts**  
   - *D’août 2022 à septembre 2022*  
@@ -86,6 +86,17 @@
   - Intégration du joueur  
   - Tableau statistique des résultats  
   - Génération d’un fichier HTML  
+
+- **Création de carte dynamique**  
+  - *2024* - Société SB2A  
+  - Utilisation de Geogenerator pour créer des cartes interactives  
+  - Génération et intégration de données géographiques  
+
+- **Création d’une application**  
+  - *2024* - Société SB2A  
+  - Développement d’une application permettant :  
+    - Relever les données des pompes de relevage  
+    - Insérer automatiquement les données dans les bases de données de l’entreprise  
 
 ---
 
