@@ -1,7 +1,5 @@
 # Tony SALVETAT
 
-**Recherche d’une alternance en base de données à partir de septembre 2023**  
-
 ---
 
 ## Informations personnelles
@@ -21,7 +19,11 @@
 - **B.U.T. STID (Statistique et Informatique Décisionnelle)**  
   (renommé Science des Données - SD)  
   - *Depuis septembre 2022*  
-  - [I.U.T Perpignan - Antenne de Carcassonne]  
+  - [I.U.T Perpignan - Antenne de Carcassonne]
+
+- **Brevet national de sécurité et de sauvetage aquatique (BNSSA)**  
+  - *mai 2023*  
+  - [Fédération Française de Sauvetage et de Secourisme - Carcassonne]  
 
 - **Licence 1 Informatique**  
   - *De septembre 2021 à juin 2022*  
@@ -38,6 +40,10 @@
 ---
 
 ## Expériences Professionnelles
+
+- **Alternant en SIG **  
+  - *Décembre 2023 à septembre 2025*  
+  - société SB2A
 
 - **Agent des espaces verts**  
   - *D’août 2022 à septembre 2022*  
